@@ -1,3 +1,7 @@
+Jamming was the capstone project of the React section of Codecademy's Web Development course.
+It's a simple React app that connects with your Spotify and helps you build new playlists.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
